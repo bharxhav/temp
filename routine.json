@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Gaussian Blur",
+        "utility": "fiji",
+        "macro": "/Users/bharxhav/Downloads/testing_/gaussian_blur.ijm",
+        "inputs": "/Users/bharxhav/Downloads/IMTEST/assets",
+        "outputs": "/Users/bharxhav/Downloads/IMTEST/results",
+        "instances": 5,
+        "capacity": 100
+    },
+    {
+        "name": "Segmentation",
+        "utility": "fiji",
+        "macro": "/Users/bharxhav/Downloads/testing_/segmentation.ijm",
+        "inputs": "/Users/bharxhav/Downloads/IMTEST/assets2",
+        "outputs": "/Users/bharxhav/Downloads/IMTEST/results2",
+        "instances": 10,
+        "capacity": 50
+    }
+]
